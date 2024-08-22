@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cartmanagement-using-useReduce-hook-in-react/static/css/main.f3921840.css",
+    "main.js": "/cartmanagement-using-useReduce-hook-in-react/static/js/main.24f290aa.js",
+    "static/js/453.31fb12eb.chunk.js": "/cartmanagement-using-useReduce-hook-in-react/static/js/453.31fb12eb.chunk.js",
+    "index.html": "/cartmanagement-using-useReduce-hook-in-react/index.html",
+    "main.f3921840.css.map": "/cartmanagement-using-useReduce-hook-in-react/static/css/main.f3921840.css.map",
+    "main.24f290aa.js.map": "/cartmanagement-using-useReduce-hook-in-react/static/js/main.24f290aa.js.map",
+    "453.31fb12eb.chunk.js.map": "/cartmanagement-using-useReduce-hook-in-react/static/js/453.31fb12eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3921840.css",
+    "static/js/main.24f290aa.js"
+  ]
+}
